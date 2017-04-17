@@ -1,5 +1,11 @@
 # Miniex_09
 
+I have used the Open Weather Data to compare the temperature and humidity for London as two different ellipses so it is more visual to the user to compare and see the difference. 
+
+
+https://mariakopo.github.io/Miniex_09/
+
+
 ![Screenshot](https://github.com/mariakopo/Miniex_09/blob/gh-pages/Sk%C3%A6rmbillede%202017-04-17%20kl.%2022.08.37.png)
 
 
