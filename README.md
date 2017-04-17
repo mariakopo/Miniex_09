@@ -1,6 +1,6 @@
 # Miniex_09
 
-![Screenshot](
+![Screenshot](https://github.com/mariakopo/Miniex_09/blob/gh-pages/Sk%C3%A6rmbillede%202017-04-17%20kl.%2022.08.37.png)
 
 
 § Which API have you chosen? and Why?
